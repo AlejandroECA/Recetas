@@ -4,49 +4,49 @@ export const hallacas = {
         id:1,
         name: "Aceite Onotado",
         quantity:'1',
-        unit: "taza",
+        unit: "tazas",
         description: "No muy Caliente",
-        componente: "guiso"
+        componente: "Guiso"
         },
         {
         id:2,
         name: "Ajo",
         quantity:'1.5',
-        unit: "taza",
+        unit: "tazas",
         description: " Finamente Picado",
-        componente: "guiso"
+        componente: "Guiso"
         },
         {
         id:3,
         name: "Cebolla",
         quantity:'5',
-        unit: "taza",
+        unit: "tazas",
         description: " Finamente Picada",
-        componente: "guiso"
+        componente: "Guiso"
         },
         {
         id:4,
         name: "Ajo Porro",
         quantity:'4',
-        unit: "taza",
+        unit: "tazas",
         description: " Finamente Picada, Solo la parte blanca",
-        componente: "guiso"
+        componente: "Guiso"
         },
         {
         id:5,
         name: "Cebollin",
         quantity:'2',
-        unit: "taza",
+        unit: "tazas",
         description: " Finamente Picado",
-        componente: "guiso"
+        componente: "Guiso"
         },
         {
         id:6,
-        name: "Alcaparra",
+        name: "Alcaparras",
         quantity:'1.5',
-        unit: "taza",
+        unit: "tazas",
         description: " Finamente Picada",
-        componente: "guiso"
+        componente: "Guiso"
         },
         {
         id:7,
@@ -54,15 +54,15 @@ export const hallacas = {
         quantity:'7',
         unit: "unidades",
         description: " Finamente Picado",
-        componente: "guiso"
+        componente: "Guiso"
         },
         {
         id:8,
         name: "Tomate",
         quantity:'4.5',
-        unit: "taza",
+        unit: "tazas",
         description: "Cubos , sin semilla, sin piel",
-        componente: "guiso"
+        componente: "Guiso"
         },
         {
         id:9,
@@ -70,7 +70,7 @@ export const hallacas = {
         quantity:'1.5',
         unit: "cucharadas",
         description: "finamente picada",
-        componente: "guiso"
+        componente: "Guiso"
         },
         {
         id:10,
@@ -114,9 +114,9 @@ export const hallacas = {
         },
         {
         id:15,
-        name: "Mostaza",
+        name: "Mostazas",
         quantity:'3/4',
-        unit: "taza",
+        unit: "tazas",
         description: "",
         componente: "Guiso"
         },
@@ -124,7 +124,7 @@ export const hallacas = {
         id:16,
         name: "Vinagre Balsamico",
         quantity:'3/4',
-        unit: "taza",
+        unit: "tazas",
         description: "",
         componente: "Guiso"
         },
@@ -132,7 +132,7 @@ export const hallacas = {
         id:17,
         name: "Vino",
         quantity:'2',
-        unit: "taza",
+        unit: "tazas",
         description: "vino tinto oscuro-cocina",
         componente: "Guiso"
         },
@@ -140,7 +140,7 @@ export const hallacas = {
         id:18,
         name: "Caldo",
         quantity:'2',
-        unit: "taza",
+        unit: "tazas",
         description: "Caldo de Pollo",
         componente: "Guiso"
         },
@@ -182,7 +182,7 @@ export const hallacas = {
         quantity:'5',
         unit: "unit",
         description: "cortado en dados 3 x 2 cm",
-        componente: "guiso"
+        componente: "Guiso"
         },            
         {
         id:24,
@@ -198,7 +198,7 @@ export const hallacas = {
         quantity:'4',
         unit: "cucharadas",
         description: "",
-        componente: "guiso"
+        componente: "Guiso"
         },            
         {
         id:26,
@@ -244,21 +244,21 @@ export const hallacas = {
         id:31,
         name: "Pimenton",
         quantity:'4',
-        unit: "taza",
+        unit: "tazas",
         description: "cuadritos",
-        componente: "guiso"
+        componente: "Guiso"
         },
         {
         id:32,
-        name: "Pazss",
+        name: "Pasas",
         quantity:'175',
         unit: "gr",
         description: "enteras",
-        componente: "guiso"
+        componente: "Guiso"
         },
         {
         id:33,
-        name: "Pazss",
+        name: "Pasas",
         quantity:'500',
         unit: "gr",
         description: "enteras",
@@ -310,7 +310,7 @@ export const hallacas = {
         quantity:'3',
         unit: "cucharadas",
         description: "",
-        componente: "guiso"
+        componente: "Guiso"
         },
         {
         id:40,
@@ -322,9 +322,9 @@ export const hallacas = {
         },
         {
         id:41,
-        name: "Manteca/aceite",
+        name: "Manteca de cochino",
         quantity:'0.5',
-        unit: "taza",
+        unit: "tazas",
         description: "onotado",
         componente: "adorno"
         },
@@ -350,7 +350,7 @@ export const hallacas = {
         quantity:'2',
         unit: "hojas",
         description: "",
-        componente: "guiso"
+        componente: "Guiso"
         },        
         {
         id:45,
@@ -361,7 +361,7 @@ export const hallacas = {
         componente: "caldo"
         },        
         {
-        id:45,
+        id:46,
         name: "Cebolla",
         quantity:'1',
         unit: "unidades",
@@ -372,7 +372,7 @@ export const hallacas = {
     "procedimiento":[        
         {
             name: "etapa 0 - Caldo",
-            componente: "guiso",
+            componente: "Guiso",
             description:{
                 1:'1 Cebolla insertar 3 clavos de olor , 1 celery, media cabeza de ajo con concha escachapada, sal y 2 hojas de laurel',
                 2:'agregar a agua hirviendo con el pollo - todo el pollo',
@@ -384,24 +384,24 @@ export const hallacas = {
         }, 
         {
             name: "etapa 1 - sofrito blanco",
-            componente: "guiso",
+            componente: "Guiso",
             description:{
-                1:'Colocar Taza de aceite onotado en el caldero a fuego alto - que no hierva - TIBIO - los ingredientes no pueden sonar al contacto con el aceite',
+                1:'Colocar tazas de aceite onotado en el caldero a fuego alto - que no hierva - TIBIO - los ingredientes no pueden sonar al contacto con el aceite',
                 2:'agregar - ajo, cebolla, ajoporro, cebollin, alcaparras, aji dulce',
                 3:'remover constantemente y dejar pochar por 5 - 10 min'
             }
         },        
         {
             name: "etapa 2 - sofrito rojo",
-            componente: "guiso",
+            componente: "Guiso",
             description:{
-                1:'agregar al resultado de la etapa 1 , tomate , aji picante, pimenton ,papelon, paprika, encurtidos, salsa inglesa, mostaza , vinagre balsamico, vino, caldo, pasas , sal',
+                1:'agregar al resultado de la etapa 1 , tomate , aji picante, pimenton ,papelon, paprika, encurtidos, salsa inglesa, mostazas , vinagre balsamico, vino, caldo, pasas , sal',
                 2:'dejar cocinar 15 min - mezclar todos los sabores'
             }
         },        
         {
             name: "etapa 3 - carnes",
-            componente: "guiso",
+            componente: "Guiso",
             description:{
                 1:'agregar cochino pringado , res',
                 2:'cuando las carnes esten listos - aprox 30 min , que esten suaves, agregar el pollo previamente cocido - mezclar por aprox 3 min',
@@ -418,7 +418,7 @@ export const hallacas = {
                 2:' agregar harina y sal',
                 3:'agregar manteca, con las manos pintar la harina , midiendo la tonalidad de color de la harina',
                 4:'caldo tibio agregando progresivamente con una cuchara removiendo - evitando que se empelote',
-                5:'eventualmente se amasa con las manos y se agrega el caldo restante aprox total caldo 25 tazas, precaucion a la taza #20',
+                5:'eventualmente se amasa con las manos y se agrega el caldo restante aprox total caldo 25 tazas, precaucion a la tazas #20',
                 6:'amasar aprox 10 - 15 min y dejar reposar 5-10 min , la textura mas suave que la arepa, esponjosa',
                 7:'hacer bolas de masa de aprox 100gr',
                 8:'colocar en una bandeja y cubrir con plastico para que no se sequen'
@@ -442,9 +442,9 @@ export const hallacas = {
                 1:'colocar hoja frente a ti con las vetas horizontales',
                 2:'con la mano impregnar la hoja para que no se pegue la masa',
                 3:'colocar la bola de masa y aplastar con la mano, grosor aprox 0.5 cm',
-                4:'colocar guiso en sentido de las vetas',
-                5:'aprox 2 cucharadas de guiso',
-                6:'sobre el guiso los adornos',
+                4:'colocar Guiso en sentido de las vetas',
+                5:'aprox 2 cucharadas de Guiso',
+                6:'sobre el Guiso los adornos',
                 7:'cerrar unir bordes, doblar como sobre / panal',
                 8:'si esta rota envolver en diagonal si no faja, evitar contacto agua directamente con la masa',
                 9:'amarrar'

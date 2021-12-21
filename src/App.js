@@ -1,4 +1,5 @@
 import './App.css';
+import React from 'react'
 import IngredientsList from './components/hallacas/ingredientes'
 
 function App() {
