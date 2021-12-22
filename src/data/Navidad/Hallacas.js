@@ -377,9 +377,9 @@ export const hallacas = {
                 1:'1 Cebolla insertar 3 clavos de olor , 1 celery, media cabeza de ajo con concha escachapada, sal y 2 hojas de laurel',
                 2:'agregar a agua hirviendo con el pollo - todo el pollo',
                 3:'evitar el sobre cocinar',
-                5:'separar pollo y caldo',
-                4: 'reposar y conservar',
-                5:'trabajar en el pollo - picar'
+                4:'separar pollo y caldo',
+                5: 'reposar y conservar',
+                6:'trabajar en el pollo - picar'
         }
         }, 
         {

@@ -14,7 +14,7 @@ const IngredientsList = () =>{
 
         // console.log(number);
 
-        if(number != -1){
+        if(number !== -1){
             if(total[number].unit===currentVal.unit){
                 total[number].quantity = Number(total[number].quantity) + Number(currentVal.quantity)
             }
